@@ -1,0 +1,114 @@
+{
+  "coffees": [
+    {
+      "id": 0,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/c/d/cd287242f668873f0588fa6eaf200c735c8a0f13_214026_1.jpg",
+      "name": "Кофе Lavazza 'Qalita ORO'",
+      "types": [0, 1],
+      "sizes": [300, 500, 1000],
+      "price": 9990,
+      "category": 1,
+      "rating": 4,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/8/1/81a020a037b4dc3fed81bfca3e12d53895dec1f2_70718_1asd.jpg",
+      "name": "Кофе Lavazza Crema&Aroma",
+      "types": [0],
+      "sizes": [300, 500, 1000],
+      "price": 9990,
+      "category": 0,
+      "rating": 8,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/a/f/af9fff0de0a46e319396356e70ca3649ab89a106_243239_1.jpg",
+      "name": "Delonghi Espresso Classico",
+      "types": [0,1],
+      "sizes": [300, 500, 1000],
+      "price": 4990,
+      "category": 2,
+      "rating": 4,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/9/e/9e7b420bc20881204f1cab25e60a07e41894e6da_8897585578014.jpg",
+      "name": "Капсулы Cremesso Espresso",
+      "types": [1],
+      "sizes": [300, 500, 1000],
+      "price": 3200,
+      "category": 2,
+      "rating": 6,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/8/b/8b68fc608823d8a94c2c558850f2da263bd79779_215770_1.jpg",
+      "name": "Кофе Caffe Mondo",
+      "types": [0, 1],
+      "sizes": [300, 500],
+      "price": 5990,
+      "category": 0,
+      "rating": 9,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/b/f/bf54658e701ab3c5ac68076452ba013da50d6d0c_11835984314398.jpg",
+      "name": "Lavazza Qualita Rossa",
+      "types": [0],
+      "sizes": [300, 500, 1000],
+      "price": 3000,
+      "category": 3,
+      "rating": 4,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/6/2/6201df900bace0fc94dc85604b948541862dd269_212605_1.jpg",
+      "name": "Bushido Red Katana",
+      "types": [1],
+      "sizes": [300, 500, 1000],
+      "price": 12490,
+      "category": 0,
+      "rating": 10,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/a/2/a2eebef8dfa56ce67286fde297c5381c74e5367f_248319_1.jpg",
+      "name": "Movenpick Latte Art",
+      "types": [0, 1],
+      "sizes": [300, 1000],
+      "price": 6790,
+      "category": 3,
+      "rating": 2,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/8/a/8afa4f9a24bb548ae30fb199994c472c9d859a6d_243237_1.jpg",
+      "name": "Delonghi Espresso Classico",
+      "types": [0],
+      "sizes": [300, 500, 1000],
+      "price": 2990,
+      "category": 2,
+      "rating": 5,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.technodom.kz/media/catalog/product/cache/1366e688ed42c99cd6439df4031862c6/a/5/a569bcb3b0148dea4667a24a8d33a34e9157d5ae_9032916926494.jpg",
+      "name": "Кофе Kimbo Prestige",
+      "types": [1],
+      "sizes": [300, 500, 1000],
+      "price": 12990,
+      "category": 3,
+      "rating": 10,
+      "status": ["Не подтверждена","Ваш заказ упакован","Ваш заказ в пути", "Ваш заказ отправлен"]
+    }
+  ]
+}
